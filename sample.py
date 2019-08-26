@@ -1,7 +1,5 @@
 import numpy as np
 import MEX as MEX 
-import random as rn
-import scipy.special as special 
 import scipy.interpolate as interpolate
 
 loadhalopath = "/Users/Scott/Desktop/cosmo/halo_with_accelerations_no_disk.dat"
